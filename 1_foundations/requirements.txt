@@ -4,3 +4,6 @@ gradio
 pypdf
 openai
 openai-agents
+google-generativeai
+
+
